@@ -3,7 +3,7 @@ Crie uma matriz 3x3 com valores fixos.
 Mostre apenas os valores da diagonal principal.
 Exemplo: elementos [0][0], [1][1], [2][2]
 */
-public class exercicio4 {
+public class reforcoArray4 {
     public static void main(String[] args) {
         
         int[][] matriz = {
